@@ -1,2 +1,1 @@
-# 这是一个存在时间很久、绝对能找到的镜像
-FROM docker.io/osrf/ros:humble-ros-base
+FROM osrf/ros@sha256:757041f0219ca7835171780490f84594c979c5a14f4454157077649567923485
