@@ -1,2 +1,2 @@
-# 尝试使用最完整的官方路径
-FROM docker.io/osrf/ros:jazzy-ros-base
+# 这是一个存在时间很久、绝对能找到的镜像
+FROM docker.io/osrf/ros:humble-ros-base
